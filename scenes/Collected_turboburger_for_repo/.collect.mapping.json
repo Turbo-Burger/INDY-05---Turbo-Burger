@@ -1,0 +1,107 @@
+{
+    "version": "1.0",
+    "file_records": [
+        {
+            "source_url": "/home/michael/turbo burger/assets/textures/grill_texture.jpg",
+            "source_hash": "f74bbd679d38fe14c09bccd936837df946c2129c",
+            "target_url": "./SubUSDs/textures/grill_texture.jpg",
+            "target_hash": "e2ae3cddb21b36dc593ed4df19283464aeede15b"
+        },
+        {
+            "source_url": "/home/michael/turbo burger/assets/grill_plate_plancha.usdz",
+            "source_hash": "4fe0dd5c564754e5c2acac81764951f40d103c7a",
+            "target_url": "./SubUSDs/textures/grill_plate_plancha.usdz",
+            "target_hash": "cf3b21a1ce19f1b56f07f50f7927fe94df526a4a"
+        },
+        {
+            "source_url": "/home/michael/turbo burger/assets/3d_scan_RAW_MESH__hamburger_patty/0/01_1M8K_u1_v1_baseColor.jpg",
+            "source_hash": "3866c6da1d1cdda9aa76fc4ba2c3c204d92cfb84",
+            "target_url": "./SubUSDs/textures/scene/01_1M8K_u1_v1_baseColor.jpg",
+            "target_hash": "77672f040e1a5dec5b77783871a3971f7f6b88db"
+        },
+        {
+            "source_url": "/home/michael/turbo burger/assets/3d_scan_RAW_MESH__hamburger_patty/0/01_1M8K_u1_v1_metallicRoughness_metal_scale0.jpg",
+            "source_hash": "31682ca5cb89c27ec0ff1112fe155c464fe203e9",
+            "target_url": "./SubUSDs/textures/scene/01_1M8K_u1_v1_metallicRoughness_metal_scale0.jpg",
+            "target_hash": "53354fb03a600c03e1a2b41751a1082019caba9f"
+        },
+        {
+            "source_url": "/home/michael/turbo burger/assets/3d_scan_RAW_MESH__hamburger_patty/0/01_1M8K_u1_v1_metallicRoughness_rough_scale1.jpg",
+            "source_hash": "ff6ccd07a46bc989618f64896d2614bcb9ac5bf0",
+            "target_url": "./SubUSDs/textures/scene/01_1M8K_u1_v1_metallicRoughness_rough_scale1.jpg",
+            "target_hash": "6f5080e737fab60de3d2a8a36637fb285a1e66d8"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.1/Isaac/People/Characters/male_adult_construction_03/textures/male_adult_construction_03_BaseColor.png",
+            "source_hash": "b5c56f898400648830c3c0875306c301a46a3f06",
+            "target_url": "./SubUSDs/textures/male_adult_construction_03/male_adult_construction_03_BaseColor.png",
+            "target_hash": "78499d1e5d9068593378411472aefd8aa7fd745f"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.1/Isaac/People/Characters/male_adult_construction_03/textures/male_adult_construction_03_Normal.png",
+            "source_hash": "db0d7fafa765ccdc2ded90710ed6c24fa5ff730f",
+            "target_url": "./SubUSDs/textures/male_adult_construction_03/male_adult_construction_03_Normal.png",
+            "target_hash": "fa7b10d8245356997bdeeb74559ba148254c2277"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.1/Isaac/People/Characters/male_adult_construction_03/textures/male_adult_construction_03_ORM.png",
+            "source_hash": "e661c6328c11c4d0eaebbd95efad0c5dd7bf25ed",
+            "target_url": "./SubUSDs/textures/male_adult_construction_03/male_adult_construction_03_ORM.png",
+            "target_hash": "a933d74829930c036229a9292543283d337c63e1"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.1/Isaac/Environments/Office/Materials/Textures/T_TableWork_ao_r_m.png",
+            "source_hash": "8e95284beaa2d400f9071f582277f018d79f7dc4",
+            "target_url": "./SubUSDs/textures/SM_TableWorkSecurity/T_TableWork_ao_r_m.png",
+            "target_hash": "a0320e07e2feda2abed36d92ecf9821008c81b04"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.1/Isaac/Environments/Office/Materials/Textures/T_TableWork_bc.png",
+            "source_hash": "79b0f06941f5548063491139e7a3ee7108a1e6ea",
+            "target_url": "./SubUSDs/textures/SM_TableWorkSecurity/T_TableWork_bc.png",
+            "target_hash": "030311035a52381be5bfc6b0ca18166025fbad4d"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.1/Isaac/Environments/Office/Materials/Textures/T_TableWork_n.png",
+            "source_hash": "bc6bc380db6441261780354ae9c42127f21e55f1",
+            "target_url": "./SubUSDs/textures/SM_TableWorkSecurity/T_TableWork_n.png",
+            "target_hash": "789ac72f73a0a0e5b8e25ce01b52432b518a98c1"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.1/Isaac/Environments/Office/Materials/MI_Props.mdl",
+            "source_hash": "5dca01e915e48c9df9d5f0f63ec106e76ab3dbd9",
+            "target_url": "./SubUSDs/materials/MI_Props.mdl",
+            "target_hash": "9cf75de49e0bd3593bc6e2abfa89b6022077eac2"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.1/Isaac/Environments/Office/Materials/Textures/T_Bookcase_n.png",
+            "source_hash": "9ab56049a4b1bdd108cb583ca0009acaa95a9526",
+            "target_url": "./SubUSDs/textures/T_Bookcase_n.png",
+            "target_hash": "f11173350d0fae84f42463eea4cb15957cfc167f"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.1/Isaac/Environments/Office/Materials/Textures/T_Bookcase_bc.png",
+            "source_hash": "7d8412427e81fdadc10d53a410d03ace790bbec7",
+            "target_url": "./SubUSDs/textures/T_Bookcase_bc.png",
+            "target_hash": "cc09296ce1d82e70549297809c56ab76f981aac1"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.1/Isaac/Environments/Office/Materials/Textures/T_Bookcase_ao_r_m.png",
+            "source_hash": "6f0a6487744b04ed9c02d7d9a36e4c0e1199b6ed",
+            "target_url": "./SubUSDs/textures/T_Bookcase_ao_r_m.png",
+            "target_hash": "c0ab1bdeb795b6a5bad985357afa321769a7b9cc"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.1/Isaac/Environments/Office/Materials/OmniUe4Function.mdl",
+            "source_hash": "2bfd8eaf5e173f84dbb8356da88f7c8c9240dd29",
+            "target_url": "./SubUSDs/materials/OmniUe4Function.mdl",
+            "target_hash": "f6470900737c1cdb58980e82546eda60d541b604"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.1/Isaac/Environments/Office/Materials/OmniUe4Base.mdl",
+            "source_hash": "d0f4a8cb385484c7e672708a747bb7437cb967f5",
+            "target_url": "./SubUSDs/materials/OmniUe4Base.mdl",
+            "target_hash": "0eb14a45b8fc25425dfc2ad1afe565201fdf6334"
+        }
+    ]
+}
