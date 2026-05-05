@@ -1,0 +1,17 @@
+[core]
+reloadable = true
+order = 0
+autoload = true
+
+[package]
+version = "0.1.0"
+category = "Simulation"
+title = "Turbo Burger Mainframe"
+description = "Where the code for the project lives"
+authors = ["Swagamuffin aka DubMar aka Will Martin"]
+
+[python]
+hot_reload = true
+
+[[python.module]]
+name = "turboburger.main"
